@@ -1,0 +1,15 @@
+001	John	Doe	15	Male
+002	Jane	Smith	14	Female
+003	Michael	Johnson	18	Male
+004	Sarah	Lee	17	Female
+005	William	Brown	15	Male
+006	Emily	Davis	14	Female
+007	David	Wilson	18	Male
+008	Lily	Harris	13	Female
+009	James	Clark	17	Male
+010	Olivia	Scott	15	Female
+011	Daniel	Martinez	14	Male
+012	Mia	Lopez	15	Female
+013	Ethan	Moore	18	Male
+014	Chloe	Taylor	14	Female
+015	Jacob	Anderson	18	Male
